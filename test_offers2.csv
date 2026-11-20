@@ -1,0 +1,49 @@
+id,gtin,merchant_sku,name,description,price,discount,discount_type,discount_starts_at,discount_ends_at,images,display_unit,weight_in_grams,volume_in_ml,number_of_units,length_in_mm,sell_by_weight_type,sell_by_weight_grams_per_step,alcohol_percentage,ingredients,additives,allergens,country_of_origin,caffeine_content_value,caffeine_content_units,dietary_preferences,conditions_of_use_and_storage,distributor_information,producer_information,enabled,brand_id,product_family_id,external_id,more_information,is_age_restricted_item,age_limit,is_over_the_counter,delivery_handshake,min_quantity_per_purchase,max_quantity_per_purchase,inventory_mode,total,nutrition_facts,location,option_bindings,category_id,picking_area_id,picking_area_sequence,courier_restrictions,delivery_methods,merchandising_name,merchandising_description,merchandising_more_information,merchandising_images
+,4017100374104,TEST-SM-788f0f589d,BAHLSEN Chokini chocolate biscuits 125g,,3.2,,,,,https://raw.githubusercontent.com/adrahimediallo2016-arch/local2u-wolt-images/main/img/788f0f589dd32e54a12dbd5c.jpg,,125,,,,,,,,,"Contains: Gluten, Lactose, Milk",,,,,,,,FALSE,,004005005,,,NO,,NO,NO,,,forced_out_of_stock,,"per 100 g
+Energy: 2040 kJ/487 kcal
+Fat: 23 g
+- of which saturates: 12 g
+Carbohydrate: 62 g
+- of which sugars: 30 g
+Protein: 6.4 g
+Salt: 0.4 g",,,test_import_local2u::6b0004a381570dd1d7e000b5,,,,"takeaway,
+homedelivery",,,,
+,4017100370007,TEST-SM-d24009966a,BAHLSEN Leibniz Butterkeks 200g,,2.9,,,,,https://raw.githubusercontent.com/adrahimediallo2016-arch/local2u-wolt-images/main/img/d24009966a36502c6097acc9.jpg,,200,,,,,,,"WHEAT flour (70%), sugar, BUTTER (12%), invert sugar syrup, raising agents: sodium carbonates, diphosphates; whey products (MILK), whole MILK powder, salt, emulsifier: lecithins; acid: citric acid; flavourings (MILK), whole hen's EGG powder.",,"Contains: Eggs, Gluten, Lactose, Milk",,,,,,,,FALSE,,004005005,,,NO,,NO,NO,,,forced_out_of_stock,,"per 100 g
+Energy: 1833 kJ
+Fat: 12 g
+- of which saturates: 7.8 g
+Carbohydrate: 72 g
+- of which sugars: 21 g
+Fibre: 2.8 g
+Protein: 8.4 g
+Salt: 1.5 g",,,test_import_local2u::6b0004a381570dd1d7e000b5,,,,"takeaway,
+homedelivery",,,,
+,5400141422320,TEST-SM-28f8ee95ac,BONI cranberry compote 400g,,4.6,,,,,https://raw.githubusercontent.com/adrahimediallo2016-arch/local2u-wolt-images/main/img/28f8ee95ac6e472138b4a16e.jpg,,400,,,,,,,,,,,,,,,,,FALSE,,004006005,,,NO,,NO,NO,,,forced_out_of_stock,,"per 100 g
+Energy: 839 kJ/198 kcal
+Fat: <0.5 g
+- of which saturates: 0 g
+Carbohydrate: 46 g
+- of which sugars: 43 g
+Fibre: 3.7 g
+Protein: <0.5 g
+Salt: 0 g",,,test_import_local2u::6b0004a381570dd1d7e000b5,,,,"takeaway,
+homedelivery",,,,
+,5400141769005,TEST-SM-50c1bd6dc6,BONI whole cooked chestnuts 420g,,15.7,,,,,https://raw.githubusercontent.com/adrahimediallo2016-arch/local2u-wolt-images/main/img/50c1bd6dc6fd24bf7118cb4e.jpg,,420,,,,,,,,,"Contains: Treenuts, Chestnuts and its derivatives",,,,,,,,FALSE,,004006004,,,NO,,NO,NO,,,forced_out_of_stock,,"per 100 g
+Energy: 673 kJ/160 kcal
+Fat: 1.5 g
+- of which saturates: .3 g
+Carbohydrate: 31 g
+- of which sugars: 8 g
+Fibre: 5.4 g
+Protein: 2.8 g
+Salt: <.01 g",,,test_import_local2u::6b0004a381570dd1d7e000b5,,,,"takeaway,
+homedelivery",,,,
+,5411319273248,TEST-SM-438074413b,AOSTE chicken fillet spit slices 120g,,7.1,,,,,https://raw.githubusercontent.com/adrahimediallo2016-arch/local2u-wolt-images/main/img/438074413bb2c4cc01d12bc6.jpg,,120,,,,,,,,,,,,,,,,,FALSE,,1000001809,,,NO,,NO,NO,,,forced_out_of_stock,,"per 100 g
+Energy: 472 kJ/112 kcal
+Fat: 4.1 g
+- of which saturates: 1.2 g
+Carbohydrate: 1.2 g
+- of which sugars: 1.1 g
+Protein: 18 g
+Salt: 2 g",,,test_import_local2u::6b0004a381570dd1d7e000b5,,,,"takeaway,
+homedelivery",,,,
